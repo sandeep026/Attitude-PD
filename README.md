@@ -1,6 +1,8 @@
-# AS5545 Spacecraft Dynamics and Control: Mini Project
+# Spacecraft Dynamics and Control: Mini Project
 
 **Author:** R Sandeepkumar
+
+report.pdf in `\part 2\report` has detailed report (with figures) submitted as part of course project. The readme is a summary of the work done.
 
 ## 1. Project Overview
 This project focuses on the active attitude stabilization of an unstable, zero momentum biased spacecraft (Astrosat). Because passive stabilization techniques result in poor set-point tracking, this project develops and validates a Proportional-Derivative (PD) control algorithm. The controller is designed using a linearized plant model about an equilibrium condition and is subsequently validated on a non-linear model to evaluate its performance for inertial or earth-pointing mission requirements.
